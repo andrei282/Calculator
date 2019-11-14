@@ -19,9 +19,9 @@ public class Application {
                 sqrtOperationService
         );
 
-        /*System.out.println(calculator.add(1d, 1d));
-        System.out.println(calculator.sqrt(64d, 3d));*/
+        System.out.println(calculator.add(1d, 1d));
+        System.out.println(calculator.sqrt(64d, 3d));
 
-        //calculator.equationCalculator("5/4+2*3-1");
+        calculator.equationCalculator("5/4+2*3-1");
     }
 }
